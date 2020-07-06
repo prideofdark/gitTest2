@@ -20,6 +20,7 @@ class ATestViewController: UIViewController {
         
         
         print("testtttt")
+        print("testtttt00000")
     }
     
 
