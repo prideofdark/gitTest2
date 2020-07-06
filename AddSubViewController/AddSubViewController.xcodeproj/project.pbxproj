@@ -18,6 +18,7 @@
 		7DDB00FC2489DED5009BEB75 /* AddSubViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DDB00FB2489DED5009BEB75 /* AddSubViewControllerTests.swift */; };
 		7DDB01072489DED5009BEB75 /* AddSubViewControllerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DDB01062489DED5009BEB75 /* AddSubViewControllerUITests.swift */; };
 		7DDB01152489DF19009BEB75 /* SubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DDB01142489DF19009BEB75 /* SubViewController.swift */; };
+		EA1482B224B2C0B9006D8B65 /* GFDGDGViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA1482B124B2C0B9006D8B65 /* GFDGDGViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		7DDB01062489DED5009BEB75 /* AddSubViewControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddSubViewControllerUITests.swift; sourceTree = "<group>"; };
 		7DDB01082489DED5009BEB75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7DDB01142489DF19009BEB75 /* SubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubViewController.swift; sourceTree = "<group>"; };
+		EA1482B124B2C0B9006D8B65 /* GFDGDGViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFDGDGViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				7DDB00E42489DED1009BEB75 /* AppDelegate.swift */,
 				7DDB00E62489DED1009BEB75 /* SceneDelegate.swift */,
 				7DDB00E82489DED1009BEB75 /* ViewController.swift */,
+				EA1482B124B2C0B9006D8B65 /* GFDGDGViewController.swift */,
 				7D80C66F2489E9C0003364E6 /* ATestViewController.swift */,
 				7DDB00EA2489DED1009BEB75 /* Main.storyboard */,
 				7DDB00ED2489DED5009BEB75 /* Assets.xcassets */,
@@ -270,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DDB00E92489DED1009BEB75 /* ViewController.swift in Sources */,
+				EA1482B224B2C0B9006D8B65 /* GFDGDGViewController.swift in Sources */,
 				7DDB00E52489DED1009BEB75 /* AppDelegate.swift in Sources */,
 				7D80C6702489E9C1003364E6 /* ATestViewController.swift in Sources */,
 				7DDB00E72489DED1009BEB75 /* SceneDelegate.swift in Sources */,
