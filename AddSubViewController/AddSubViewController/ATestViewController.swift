@@ -20,11 +20,7 @@ class ATestViewController: UIViewController {
         
         
         print("testtttt")
-<<<<<<< HEAD
-        print("testtttt00000")
-=======
-        print("testtttt11111")
->>>>>>> 603f043011a8a33fea3d579fca3ad8373ad6d8d9
+       print("testtttt11111")
     }
     
 
