@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("test")
+        
 //        scrollView.frame = self.view.frame
 //        self.scrollView.isPagingEnabled = true
 //        self.view.addSubview(scrollView)
