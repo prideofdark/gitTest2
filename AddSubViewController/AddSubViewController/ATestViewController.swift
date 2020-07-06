@@ -13,6 +13,10 @@ class ATestViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        
+        
+        print("testtttt")
     }
     
 
@@ -25,5 +29,6 @@ class ATestViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
+    
+    
 }
